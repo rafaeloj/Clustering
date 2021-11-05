@@ -1,5 +1,5 @@
 # Trabalho de aprendizado de máquinas
-# Rafael de Oliveira Jarczewski - 1901570170
+#### Rafael de Oliveira Jarczewski - 1901570170
 
 ## -----------------------
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cluster.py      
@@ -22,3 +22,5 @@ Para qualquer nova execução os arquivos com os clusters descobertos serão arm
 ## -----------------------
 
 Esse arquivo pega os dados salvos em quadrado.dat com a chamada da método multiplos_testes e produz o calculo para o melhor k juntamente com o gráfico
+
+<img src="https://github.com/rafaeloj/Clustering/blob/master/3.MopsiLocationsUntil2012-Finland_clusters_gerados/soma_total_dos_quadrados.png" width="500"><img src="https://github.com/rafaeloj/Clustering/blob/master/2.MopsiLocations2012-Joensuu_Clusters_gerados/grupos_formados.png" width="500">
